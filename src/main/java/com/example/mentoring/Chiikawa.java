@@ -19,7 +19,6 @@ public class Chiikawa {
     private Integer age;
 
     public Chiikawa(String name, String birth, Integer age) {
-        this.id = id;
         this.name = name;
         this.birth = birth;
         this.age = age;
